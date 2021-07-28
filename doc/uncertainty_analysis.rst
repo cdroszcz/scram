@@ -27,7 +27,7 @@ The default seed of the PRNG is 5489 (C++ specification),
 but this parameter can be changed by a user,
 for example, to test the analysis tool.
 
-Available statistical distributions are specified in Open-PSA [MEF]_.
+Available statistical distributions are specified in Open-PSA `[MEF] <references.rst#standards-guides-manuals-handbooks>`__.
 
 .. _MT 19937: https://en.wikipedia.org/wiki/Mersenne_twister
 

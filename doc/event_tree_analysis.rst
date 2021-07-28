@@ -4,7 +4,7 @@
 Event Tree Analysis
 ###################
 
-Event tree analysis `[ETA] <references.rst#web-ressources>`__ is an analysis of end sequences
+Event tree analysis `[ETA] <references.rst#web-resources>`__ is an analysis of end sequences
 given an initiating event and progression of states over functional events.
 The analysis uses the gathered Boolean formulae and expressions per sequence
 to supply arguments for other analysis kinds,
